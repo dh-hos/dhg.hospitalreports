@@ -1,4 +1,4 @@
-# Nhật ký phiên bản - [DHG.Hospital Reporsts](https://gofile.me/78TQg/9ZlS3PeMl)
+# Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
 ## [File: SetupHospitalReport20240110.zip] - 10/01/2024
 
