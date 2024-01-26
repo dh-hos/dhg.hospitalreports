@@ -1,6 +1,8 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
 ## [File: SetupHospitalReport20240126.zip] - 26/01/2024
+### Thêm mới:
+- Mở chức năng báo cáo bệnh nhân HIV cho đơn vị: `83600 - BVĐK KV CÙ LAO MINH`. Chi tiết: [#To_Lap_Trinh/issues/235](https://github.com/dh-hos/To_Lap_Trinh/issues/235)
 ### Sửa lỗi:
 - Sổ chẩn đoán hình ảnh bị double dữ liệu bệnh nhân. Chi tiết: [#dhg.hospitaldiagnose/issues/54](https://github.com/dh-hos/dhg.hospitaldiagnose/issues/54)
 
