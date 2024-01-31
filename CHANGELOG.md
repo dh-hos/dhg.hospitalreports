@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240131.zip] - 31/01/2024
+### Sửa lỗi:
+- Sửa lỗi sai cột `t_nguonkhac, t_bncct` khi xuất `XML4210` người bệnh HIV/ARV. Chi tiết: [#103](https://github.com/dh-hos/dhg.hospitalreports/issues/103)
+
 ## [File: SetupHospitalReport20240126.zip] - 26/01/2024
 ### Thêm mới:
 - Mở chức năng báo cáo bệnh nhân HIV cho đơn vị: `83600 - BVĐK KV CÙ LAO MINH`. Chi tiết: [#To_Lap_Trinh/issues/235](https://github.com/dh-hos/To_Lap_Trinh/issues/235)
