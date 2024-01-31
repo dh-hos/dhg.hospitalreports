@@ -2,7 +2,7 @@
 
 ## [File: SetupHospitalReport20240131.zip] - 31/01/2024
 ### Sửa lỗi:
-- Sửa lỗi sai cột `t_nguonkhac, t_bncct` khi xuất `XML4210` người bệnh HIV/ARV. Chi tiết: [#103](https://github.com/dh-hos/dhg.hospitalreports/issues/103)
+- Sai cột `t_nguonkhac, t_bncct` khi xuất `XML4210` người bệnh HIV/ARV. Chi tiết: [#103](https://github.com/dh-hos/dhg.hospitalreports/issues/103)
 
 ## [File: SetupHospitalReport20240126.zip] - 26/01/2024
 ### Thêm mới:
