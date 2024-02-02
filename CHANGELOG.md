@@ -1,5 +1,11 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240202.zip] - 02/02/2024
+### Thêm mới:
+- Cập nhật license cho mã `77159`. Chi tiết: [#To_Lap_Trinh/issues/239](https://github.com/dh-hos/To_Lap_Trinh/issues/239)
+### Sửa lỗi:
+- Khi click số lượng Chuyển viện/Xuất viện/Tử vong - Thống kê bệnh nhân. Chi tiết: [#104](https://github.com/dh-hos/dhg.hospitalreports/issues/104)
+
 ## [File: SetupHospitalReport20240131.zip] - 31/01/2024
 ### Sửa lỗi:
 - Sai cột `t_nguonkhac, t_bncct` khi xuất `XML4210` người bệnh HIV/ARV. Chi tiết: [#103](https://github.com/dh-hos/dhg.hospitalreports/issues/103)
