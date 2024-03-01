@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240301.zip] - 01/03/2024
+### Sửa lỗi:
+- Sổ Xét nghiệm: báo cáo quý load thiếu bệnh nhân. Chi tiết: [#dhg.hospitallaboratory/issues/51](https://github.com/dh-hos/dhg.hospitallaboratory/issues/51)
+
 ## [File: SetupHospitalReport20240202.zip] - 02/02/2024
 ### Thêm mới:
 - Cập nhật license cho mã `77159`. Chi tiết: [#To_Lap_Trinh/issues/239](https://github.com/dh-hos/To_Lap_Trinh/issues/239)
