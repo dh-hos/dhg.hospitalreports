@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240401.zip] - 01/04/2024
+### Sửa lỗi:
+- Không xem được danh sách khám sức khỏe đề án 06. Chi tiết: [#111](https://github.com/dh-hos/dhg.hospitalreports/issues/111)
+
 ## [File: SetupHospitalReport20240301.zip] - 01/03/2024
 ### Sửa lỗi:
 - Sổ Xét nghiệm: báo cáo quý load thiếu bệnh nhân. Chi tiết: [#dhg.hospitallaboratory/issues/51](https://github.com/dh-hos/dhg.hospitallaboratory/issues/51)
