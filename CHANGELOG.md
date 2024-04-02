@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240402.zip] - 02/04/2024
+### Sửa lỗi:
+- Bệnh nhân chỉ định cận lâm sàng cho vật tư kèm theo nhưng không load mã vật tư và gói Vật tư trên XML3. Chi tiết: [#112](https://github.com/dh-hos/dhg.hospitalreports/issues/112)
+
 ## [File: SetupHospitalReport20240401.zip] - 01/04/2024
 ### Sửa lỗi:
 - Không xem được danh sách khám sức khỏe đề án 06. Chi tiết: [#111](https://github.com/dh-hos/dhg.hospitalreports/issues/111)
