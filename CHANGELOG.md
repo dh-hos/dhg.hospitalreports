@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240412.zip] - 12/04/2024
+### Thêm mới:
+- Bổ sung dữ liệu cột `SO` và `QUYEN_SO` vào `Danh sách trẻ sơ sinh (Công văn 4811/BHXH-CNTT)`. Chi tiết: [#To_Lap_Trinh/issues/320](https://github.com/dh-hos/To_Lap_Trinh/issues/320)
+
 ## [File: SetupHospitalReport20240410.zip] - 10/04/2024
 ### Sửa lỗi:
 - Báo cáo mẫu C79a-HD (Theo QĐ4210) load lệch số lượng bệnh nhân giữa tùy chọn `Tất cả` với `Đã in` và `Chưa in`. Chi tiết: [#110](https://github.com/dh-hos/dhg.hospitalreports/issues/110#issuecomment-2044082227)
