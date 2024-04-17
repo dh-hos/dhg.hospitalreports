@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240417.zip] - 17/04/2024
+### Thêm mới:
+- Bổ sung số liệu `Sổ Vào viện - Ra viện - Chuyển viện` khi xuất Excel (dữ liệu) từ lưới. Chi tiết: [#To_Lap_Trinh/issues/326](https://github.com/dh-hos/To_Lap_Trinh/issues/326)
+
 ## [File: SetupHospitalReport20240412.zip] - 12/04/2024
 ### Thêm mới:
 - Bổ sung dữ liệu cột `SO` và `QUYEN_SO` vào `Danh sách trẻ sơ sinh (Công văn 4811/BHXH-CNTT)`. Chi tiết: [#To_Lap_Trinh/issues/320](https://github.com/dh-hos/To_Lap_Trinh/issues/320)
