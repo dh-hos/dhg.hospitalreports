@@ -1,5 +1,9 @@
 # Nhật ký phiên bản - [DHG.Hospital Reports](https://gofile.me/78TQg/9ZlS3PeMl)
 
+## [File: SetupHospitalReport20240419.zip] - 19/04/2024
+### Sửa lỗi:
+- Khi xem `Sổ nhập viện`, `Sổ xuất viện`. Chi tiết: [#115](https://github.com/dh-hos/dhg.hospitalreports/issues/115)
+
 ## [File: SetupHospitalReport20240417.zip] - 17/04/2024
 ### Thêm mới:
 - Bổ sung số liệu `Sổ Vào viện - Ra viện - Chuyển viện` khi xuất Excel (dữ liệu) từ lưới. Chi tiết: [#To_Lap_Trinh/issues/326](https://github.com/dh-hos/To_Lap_Trinh/issues/326)
